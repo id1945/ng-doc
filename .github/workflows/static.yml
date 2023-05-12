@@ -20,7 +20,7 @@ jobs:
       run: npm i -g @angular/cli@13 # Install angular cli v6 global
  
     - name: Install dependencies
-      run: npm run i -f # Install all package with --force
+      run: npm install -f # Install all package with --force
       
     - name: Build
       run: npm run main:build:stats --base-href="/ngrefs/" # Build project with base href
