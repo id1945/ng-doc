@@ -6,9 +6,6 @@ Live: https://ngrefs.com
 
 ## Sections
 
-*
-*
-*
 
 ## Parse Angular sources
 
