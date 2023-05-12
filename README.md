@@ -4,8 +4,6 @@ References for Web developers describe tools and concepts of Angular framework.
 
 Live: https://ngrefs.com
 
-## Sections
-
 
 ## Parse Angular sources
 
